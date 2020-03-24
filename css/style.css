@@ -1,0 +1,4 @@
+.box1{
+	/* 相对路径写在哪就相当于哪个文件夹 */
+	background-image:url(../img/222捕获.PNG);
+}
